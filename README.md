@@ -1,4 +1,4 @@
-# mask-detection
+# Mask-Detection
 
 Install Dependencies -> `pip install -r requirements.txt`
 
